@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "in-case-001",
+    "title": "搜索课程资料案例1",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000353",
+      "in-q-000848",
+      "in-q-001400"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-002",
+    "title": "查找官方文档案例2",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003181",
+      "in-q-001087",
+      "in-q-002269"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-003",
+    "title": "检索论文案例3",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001243",
+      "in-q-001653",
+      "in-q-003150"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-004",
+    "title": "比较技术方案案例4",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001391",
+      "in-q-002060",
+      "in-q-000831"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-005",
+    "title": "调研数据库选型案例5",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002702",
+      "in-q-001351",
+      "in-q-001398"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-006",
+    "title": "调研前端框架案例6",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002185",
+      "in-q-000892",
+      "in-q-001484"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-007",
+    "title": "调研云服务案例7",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000016",
+      "in-q-002994",
+      "in-q-000308"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-008",
+    "title": "核查新闻案例8",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000771",
+      "in-q-001391",
+      "in-q-003160"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-009",
+    "title": "判断可信度案例9",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002942",
+      "in-q-001095",
+      "in-q-000352"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-010",
+    "title": "论文摘要笔记案例10",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001510",
+      "in-q-001592",
+      "in-q-002206"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-011",
+    "title": "技术报告整理案例11",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002197",
+      "in-q-002019",
+      "in-q-001768"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-012",
+    "title": "行业报告分析案例12",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002745",
+      "in-q-000619",
+      "in-q-000390"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-013",
+    "title": "资料卡片整理案例13",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000806",
+      "in-q-000878",
+      "in-q-002433"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-014",
+    "title": "Zotero文献库案例14",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002385",
+      "in-q-000916",
+      "in-q-001581"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-015",
+    "title": "研究报告写作案例15",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002771",
+      "in-q-002279",
+      "in-q-003160"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-016",
+    "title": "引用规范案例16",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003164",
+      "in-q-002408",
+      "in-q-001856"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-017",
+    "title": "版权风险识别案例17",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001033",
+      "in-q-002267",
+      "in-q-001215"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-018",
+    "title": "搜索课程资料案例18",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001387",
+      "in-q-002398",
+      "in-q-002518"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-019",
+    "title": "查找官方文档案例19",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001912",
+      "in-q-002159",
+      "in-q-002183"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-020",
+    "title": "检索论文案例20",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000934",
+      "in-q-001276",
+      "in-q-000908"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-021",
+    "title": "比较技术方案案例21",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000331",
+      "in-q-001279",
+      "in-q-000010"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-022",
+    "title": "调研数据库选型案例22",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000660",
+      "in-q-002245",
+      "in-q-001064"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-023",
+    "title": "调研前端框架案例23",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001943",
+      "in-q-001558",
+      "in-q-002722"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-024",
+    "title": "调研云服务案例24",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002283",
+      "in-q-000885",
+      "in-q-001793"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-025",
+    "title": "核查新闻案例25",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002936",
+      "in-q-001820",
+      "in-q-002622"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-026",
+    "title": "判断可信度案例26",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003477",
+      "in-q-002509",
+      "in-q-000477"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-027",
+    "title": "论文摘要笔记案例27",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002046",
+      "in-q-001000",
+      "in-q-002508"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-028",
+    "title": "技术报告整理案例28",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001900",
+      "in-q-001660",
+      "in-q-002592"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-029",
+    "title": "行业报告分析案例29",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002498",
+      "in-q-003319",
+      "in-q-000120"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-030",
+    "title": "资料卡片整理案例30",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003156",
+      "in-q-001430",
+      "in-q-002991"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-031",
+    "title": "Zotero文献库案例31",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002989",
+      "in-q-001612",
+      "in-q-002741"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-032",
+    "title": "研究报告写作案例32",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002139",
+      "in-q-001312",
+      "in-q-002881"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-033",
+    "title": "引用规范案例33",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003061",
+      "in-q-002259",
+      "in-q-000592"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-034",
+    "title": "版权风险识别案例34",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001536",
+      "in-q-002953",
+      "in-q-000485"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-035",
+    "title": "搜索课程资料案例35",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001653",
+      "in-q-001576",
+      "in-q-000863"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-036",
+    "title": "查找官方文档案例36",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000346",
+      "in-q-000289",
+      "in-q-002480"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-037",
+    "title": "检索论文案例37",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001136",
+      "in-q-000110",
+      "in-q-001820"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-038",
+    "title": "比较技术方案案例38",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001306",
+      "in-q-000493",
+      "in-q-002402"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-039",
+    "title": "调研数据库选型案例39",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001628",
+      "in-q-000101",
+      "in-q-000795"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-040",
+    "title": "调研前端框架案例40",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000387",
+      "in-q-000915",
+      "in-q-001276"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-041",
+    "title": "调研云服务案例41",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001531",
+      "in-q-003406",
+      "in-q-002951"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-042",
+    "title": "核查新闻案例42",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003143",
+      "in-q-001561",
+      "in-q-003488"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-043",
+    "title": "判断可信度案例43",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003221",
+      "in-q-001922",
+      "in-q-000994"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-044",
+    "title": "论文摘要笔记案例44",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003270",
+      "in-q-003327",
+      "in-q-000671"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-045",
+    "title": "技术报告整理案例45",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001079",
+      "in-q-000359",
+      "in-q-000444"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-046",
+    "title": "行业报告分析案例46",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001675",
+      "in-q-002006",
+      "in-q-002245"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-047",
+    "title": "资料卡片整理案例47",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001476",
+      "in-q-000649",
+      "in-q-002737"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-048",
+    "title": "Zotero文献库案例48",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001771",
+      "in-q-000424",
+      "in-q-000622"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-049",
+    "title": "研究报告写作案例49",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001119",
+      "in-q-000069",
+      "in-q-002098"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-050",
+    "title": "引用规范案例50",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003044",
+      "in-q-000415",
+      "in-q-002344"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-051",
+    "title": "版权风险识别案例51",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002582",
+      "in-q-001857",
+      "in-q-000569"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-052",
+    "title": "搜索课程资料案例52",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000004",
+      "in-q-003124",
+      "in-q-000455"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-053",
+    "title": "查找官方文档案例53",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000356",
+      "in-q-001820",
+      "in-q-002851"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-054",
+    "title": "检索论文案例54",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002117",
+      "in-q-000468",
+      "in-q-002113"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-055",
+    "title": "比较技术方案案例55",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002304",
+      "in-q-002804",
+      "in-q-002740"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-056",
+    "title": "调研数据库选型案例56",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001286",
+      "in-q-001820",
+      "in-q-002329"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-057",
+    "title": "调研前端框架案例57",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002560",
+      "in-q-000370",
+      "in-q-002773"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-058",
+    "title": "调研云服务案例58",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002089",
+      "in-q-002444",
+      "in-q-003316"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-059",
+    "title": "核查新闻案例59",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000372",
+      "in-q-001963",
+      "in-q-002965"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-060",
+    "title": "判断可信度案例60",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002681",
+      "in-q-003298",
+      "in-q-001593"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-061",
+    "title": "论文摘要笔记案例61",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003316",
+      "in-q-000703",
+      "in-q-002525"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-062",
+    "title": "技术报告整理案例62",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001051",
+      "in-q-000310",
+      "in-q-001533"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-063",
+    "title": "行业报告分析案例63",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000496",
+      "in-q-000562",
+      "in-q-000733"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-064",
+    "title": "资料卡片整理案例64",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001413",
+      "in-q-001501",
+      "in-q-000357"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-065",
+    "title": "Zotero文献库案例65",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001494",
+      "in-q-000477",
+      "in-q-003205"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-066",
+    "title": "研究报告写作案例66",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003293",
+      "in-q-000585",
+      "in-q-003411"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-067",
+    "title": "引用规范案例67",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003400",
+      "in-q-001225",
+      "in-q-001164"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-068",
+    "title": "版权风险识别案例68",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003325",
+      "in-q-003426",
+      "in-q-001308"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-069",
+    "title": "搜索课程资料案例69",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000477",
+      "in-q-000047",
+      "in-q-000933"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-070",
+    "title": "查找官方文档案例70",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000537",
+      "in-q-001885",
+      "in-q-001248"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-071",
+    "title": "检索论文案例71",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002850",
+      "in-q-002710",
+      "in-q-002990"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-072",
+    "title": "比较技术方案案例72",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001701",
+      "in-q-001001",
+      "in-q-002672"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-073",
+    "title": "调研数据库选型案例73",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001598",
+      "in-q-001738",
+      "in-q-003039"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-074",
+    "title": "调研前端框架案例74",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002207",
+      "in-q-000696",
+      "in-q-000233"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-075",
+    "title": "调研云服务案例75",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003259",
+      "in-q-002242",
+      "in-q-002933"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-076",
+    "title": "核查新闻案例76",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000059",
+      "in-q-000571",
+      "in-q-003370"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-077",
+    "title": "判断可信度案例77",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003465",
+      "in-q-002538",
+      "in-q-001888"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-078",
+    "title": "论文摘要笔记案例78",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002056",
+      "in-q-000410",
+      "in-q-000676"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-079",
+    "title": "技术报告整理案例79",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002251",
+      "in-q-002992",
+      "in-q-001423"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-080",
+    "title": "行业报告分析案例80",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001508",
+      "in-q-003203",
+      "in-q-003075"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-081",
+    "title": "资料卡片整理案例81",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002607",
+      "in-q-003242",
+      "in-q-002424"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-082",
+    "title": "Zotero文献库案例82",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001518",
+      "in-q-000215",
+      "in-q-002832"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-083",
+    "title": "研究报告写作案例83",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000277",
+      "in-q-001696",
+      "in-q-001980"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-084",
+    "title": "引用规范案例84",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002682",
+      "in-q-002577",
+      "in-q-000489"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-085",
+    "title": "版权风险识别案例85",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003291",
+      "in-q-002303",
+      "in-q-003146"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-086",
+    "title": "搜索课程资料案例86",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001085",
+      "in-q-002435",
+      "in-q-003130"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-087",
+    "title": "查找官方文档案例87",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002322",
+      "in-q-002114",
+      "in-q-003273"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-088",
+    "title": "检索论文案例88",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000127",
+      "in-q-000414",
+      "in-q-001057"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-089",
+    "title": "比较技术方案案例89",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002382",
+      "in-q-001361",
+      "in-q-000872"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-090",
+    "title": "调研数据库选型案例90",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000620",
+      "in-q-001405",
+      "in-q-002119"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-091",
+    "title": "调研前端框架案例91",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003035",
+      "in-q-001755",
+      "in-q-002669"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-092",
+    "title": "调研云服务案例92",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003140",
+      "in-q-002970",
+      "in-q-002724"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-093",
+    "title": "核查新闻案例93",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001203",
+      "in-q-000760",
+      "in-q-000890"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-094",
+    "title": "判断可信度案例94",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003273",
+      "in-q-000073",
+      "in-q-001429"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-095",
+    "title": "论文摘要笔记案例95",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003069",
+      "in-q-003352",
+      "in-q-003496"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-096",
+    "title": "技术报告整理案例96",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001509",
+      "in-q-000603",
+      "in-q-003134"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-097",
+    "title": "行业报告分析案例97",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001393",
+      "in-q-000917",
+      "in-q-001538"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-098",
+    "title": "资料卡片整理案例98",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000833",
+      "in-q-002680",
+      "in-q-003088"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-099",
+    "title": "Zotero文献库案例99",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000395",
+      "in-q-001439",
+      "in-q-000010"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-100",
+    "title": "研究报告写作案例100",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000540",
+      "in-q-001261",
+      "in-q-002419"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-101",
+    "title": "引用规范案例101",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002589",
+      "in-q-002455",
+      "in-q-001720"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-102",
+    "title": "版权风险识别案例102",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001136",
+      "in-q-002708",
+      "in-q-000943"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-103",
+    "title": "搜索课程资料案例103",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000539",
+      "in-q-002750",
+      "in-q-001130"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-104",
+    "title": "查找官方文档案例104",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000170",
+      "in-q-002428",
+      "in-q-001141"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-105",
+    "title": "检索论文案例105",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003299",
+      "in-q-002942",
+      "in-q-001718"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-106",
+    "title": "比较技术方案案例106",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000361",
+      "in-q-002811",
+      "in-q-000621"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-107",
+    "title": "调研数据库选型案例107",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003223",
+      "in-q-003179",
+      "in-q-000005"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-108",
+    "title": "调研前端框架案例108",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002244",
+      "in-q-002737",
+      "in-q-000866"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-109",
+    "title": "调研云服务案例109",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000721",
+      "in-q-002405",
+      "in-q-003072"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-110",
+    "title": "核查新闻案例110",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000145",
+      "in-q-003337",
+      "in-q-000435"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-111",
+    "title": "判断可信度案例111",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002597",
+      "in-q-001334",
+      "in-q-000265"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-112",
+    "title": "论文摘要笔记案例112",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000219",
+      "in-q-000594",
+      "in-q-002786"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-113",
+    "title": "技术报告整理案例113",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001305",
+      "in-q-002713",
+      "in-q-000780"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-114",
+    "title": "行业报告分析案例114",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001097",
+      "in-q-001005",
+      "in-q-000602"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-115",
+    "title": "资料卡片整理案例115",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002211",
+      "in-q-002644",
+      "in-q-001095"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-116",
+    "title": "Zotero文献库案例116",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001603",
+      "in-q-001568",
+      "in-q-003186"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-117",
+    "title": "研究报告写作案例117",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000061",
+      "in-q-002348",
+      "in-q-001374"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-118",
+    "title": "引用规范案例118",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000481",
+      "in-q-001039",
+      "in-q-001402"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-119",
+    "title": "版权风险识别案例119",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001750",
+      "in-q-000966",
+      "in-q-001602"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-120",
+    "title": "搜索课程资料案例120",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000287",
+      "in-q-000087",
+      "in-q-001960"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-121",
+    "title": "查找官方文档案例121",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000473",
+      "in-q-002287",
+      "in-q-003089"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-122",
+    "title": "检索论文案例122",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002031",
+      "in-q-000089",
+      "in-q-001052"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-123",
+    "title": "比较技术方案案例123",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001643",
+      "in-q-001659",
+      "in-q-001553"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-124",
+    "title": "调研数据库选型案例124",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001744",
+      "in-q-001243",
+      "in-q-000077"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-125",
+    "title": "调研前端框架案例125",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002576",
+      "in-q-001327",
+      "in-q-001807"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-126",
+    "title": "调研云服务案例126",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000741",
+      "in-q-002901",
+      "in-q-000953"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-127",
+    "title": "核查新闻案例127",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002445",
+      "in-q-003127",
+      "in-q-002108"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-128",
+    "title": "判断可信度案例128",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001521",
+      "in-q-002519",
+      "in-q-002625"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-129",
+    "title": "论文摘要笔记案例129",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002883",
+      "in-q-001799",
+      "in-q-000781"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-130",
+    "title": "技术报告整理案例130",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001688",
+      "in-q-001437",
+      "in-q-002204"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-131",
+    "title": "行业报告分析案例131",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002126",
+      "in-q-002564",
+      "in-q-002023"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-132",
+    "title": "资料卡片整理案例132",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002070",
+      "in-q-003311",
+      "in-q-002547"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-133",
+    "title": "Zotero文献库案例133",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001795",
+      "in-q-000485",
+      "in-q-001947"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-134",
+    "title": "研究报告写作案例134",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001527",
+      "in-q-000141",
+      "in-q-003370"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-135",
+    "title": "引用规范案例135",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002972",
+      "in-q-001869",
+      "in-q-003369"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-136",
+    "title": "版权风险识别案例136",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001944",
+      "in-q-001553",
+      "in-q-000227"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-137",
+    "title": "搜索课程资料案例137",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000258",
+      "in-q-000634",
+      "in-q-000004"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-138",
+    "title": "查找官方文档案例138",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000266",
+      "in-q-003154",
+      "in-q-000514"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-139",
+    "title": "检索论文案例139",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003226",
+      "in-q-000623",
+      "in-q-001846"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-140",
+    "title": "比较技术方案案例140",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000754",
+      "in-q-003366",
+      "in-q-002784"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-141",
+    "title": "调研数据库选型案例141",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001280",
+      "in-q-001038",
+      "in-q-001276"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-142",
+    "title": "调研前端框架案例142",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002912",
+      "in-q-000635",
+      "in-q-003062"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-143",
+    "title": "调研云服务案例143",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001020",
+      "in-q-000447",
+      "in-q-000551"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-144",
+    "title": "核查新闻案例144",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001902",
+      "in-q-000468",
+      "in-q-000218"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-145",
+    "title": "判断可信度案例145",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002690",
+      "in-q-001191",
+      "in-q-002683"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-146",
+    "title": "论文摘要笔记案例146",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000976",
+      "in-q-000393",
+      "in-q-001679"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-147",
+    "title": "技术报告整理案例147",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002962",
+      "in-q-002298",
+      "in-q-000639"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-148",
+    "title": "行业报告分析案例148",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000090",
+      "in-q-001955",
+      "in-q-000633"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-149",
+    "title": "资料卡片整理案例149",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003326",
+      "in-q-003001",
+      "in-q-001264"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-150",
+    "title": "Zotero文献库案例150",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001001",
+      "in-q-001301",
+      "in-q-001927"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-151",
+    "title": "研究报告写作案例151",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000228",
+      "in-q-000643",
+      "in-q-002933"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-152",
+    "title": "引用规范案例152",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002396",
+      "in-q-001305",
+      "in-q-001214"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-153",
+    "title": "版权风险识别案例153",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002517",
+      "in-q-003382",
+      "in-q-001459"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-154",
+    "title": "搜索课程资料案例154",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002439",
+      "in-q-000811",
+      "in-q-000633"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-155",
+    "title": "查找官方文档案例155",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002482",
+      "in-q-002665",
+      "in-q-001166"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-156",
+    "title": "检索论文案例156",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002862",
+      "in-q-002452",
+      "in-q-002335"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-157",
+    "title": "比较技术方案案例157",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000008",
+      "in-q-002537",
+      "in-q-001400"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-158",
+    "title": "调研数据库选型案例158",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000472",
+      "in-q-001023",
+      "in-q-000501"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-159",
+    "title": "调研前端框架案例159",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000069",
+      "in-q-001762",
+      "in-q-002577"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-160",
+    "title": "调研云服务案例160",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000901",
+      "in-q-001784",
+      "in-q-001279"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-161",
+    "title": "核查新闻案例161",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000907",
+      "in-q-000244",
+      "in-q-000305"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-162",
+    "title": "判断可信度案例162",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003025",
+      "in-q-000334",
+      "in-q-000916"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-163",
+    "title": "论文摘要笔记案例163",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001703",
+      "in-q-000937",
+      "in-q-002656"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-164",
+    "title": "技术报告整理案例164",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002709",
+      "in-q-000682",
+      "in-q-002316"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-165",
+    "title": "行业报告分析案例165",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001684",
+      "in-q-001191",
+      "in-q-002976"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-166",
+    "title": "资料卡片整理案例166",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000918",
+      "in-q-001303",
+      "in-q-003140"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-167",
+    "title": "Zotero文献库案例167",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003269",
+      "in-q-000594",
+      "in-q-003263"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-168",
+    "title": "研究报告写作案例168",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001919",
+      "in-q-000010",
+      "in-q-000094"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-169",
+    "title": "引用规范案例169",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000814",
+      "in-q-000423",
+      "in-q-001833"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-170",
+    "title": "版权风险识别案例170",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000257",
+      "in-q-001195",
+      "in-q-002516"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-171",
+    "title": "搜索课程资料案例171",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001977",
+      "in-q-001063",
+      "in-q-002848"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-172",
+    "title": "查找官方文档案例172",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002481",
+      "in-q-000857",
+      "in-q-002906"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-173",
+    "title": "检索论文案例173",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001431",
+      "in-q-002759",
+      "in-q-000469"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-174",
+    "title": "比较技术方案案例174",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000921",
+      "in-q-002736",
+      "in-q-002413"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-175",
+    "title": "调研数据库选型案例175",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001074",
+      "in-q-001405",
+      "in-q-003020"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-176",
+    "title": "调研前端框架案例176",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003108",
+      "in-q-002625",
+      "in-q-002116"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-177",
+    "title": "调研云服务案例177",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002328",
+      "in-q-002478",
+      "in-q-002112"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-178",
+    "title": "核查新闻案例178",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001836",
+      "in-q-000242",
+      "in-q-001626"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-179",
+    "title": "判断可信度案例179",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003282",
+      "in-q-000042",
+      "in-q-003226"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-180",
+    "title": "论文摘要笔记案例180",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002655",
+      "in-q-000215",
+      "in-q-000654"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-181",
+    "title": "技术报告整理案例181",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000753",
+      "in-q-000746",
+      "in-q-002607"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-182",
+    "title": "行业报告分析案例182",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001528",
+      "in-q-001667",
+      "in-q-002703"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-183",
+    "title": "资料卡片整理案例183",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002877",
+      "in-q-003118",
+      "in-q-003426"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-184",
+    "title": "Zotero文献库案例184",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000768",
+      "in-q-003099",
+      "in-q-001909"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-185",
+    "title": "研究报告写作案例185",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000635",
+      "in-q-001755",
+      "in-q-003431"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-186",
+    "title": "引用规范案例186",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002966",
+      "in-q-000473",
+      "in-q-000600"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-187",
+    "title": "版权风险识别案例187",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001450",
+      "in-q-003400",
+      "in-q-001675"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-188",
+    "title": "搜索课程资料案例188",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000763",
+      "in-q-000006",
+      "in-q-000301"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-189",
+    "title": "查找官方文档案例189",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002935",
+      "in-q-001682",
+      "in-q-002545"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-190",
+    "title": "检索论文案例190",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002933",
+      "in-q-001410",
+      "in-q-002386"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-191",
+    "title": "比较技术方案案例191",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000954",
+      "in-q-000828",
+      "in-q-000713"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-192",
+    "title": "调研数据库选型案例192",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000960",
+      "in-q-002896",
+      "in-q-002584"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-193",
+    "title": "调研前端框架案例193",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003376",
+      "in-q-000060",
+      "in-q-000299"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-194",
+    "title": "调研云服务案例194",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001852",
+      "in-q-001554",
+      "in-q-003027"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-195",
+    "title": "核查新闻案例195",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003064",
+      "in-q-000044",
+      "in-q-002025"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-196",
+    "title": "判断可信度案例196",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003363",
+      "in-q-002536",
+      "in-q-000833"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-197",
+    "title": "论文摘要笔记案例197",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001627",
+      "in-q-003424",
+      "in-q-002406"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-198",
+    "title": "技术报告整理案例198",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001070",
+      "in-q-001801",
+      "in-q-000409"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-199",
+    "title": "行业报告分析案例199",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002123",
+      "in-q-001107",
+      "in-q-003432"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-200",
+    "title": "资料卡片整理案例200",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003070",
+      "in-q-000177",
+      "in-q-001870"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-201",
+    "title": "Zotero文献库案例201",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002776",
+      "in-q-003128",
+      "in-q-001581"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-202",
+    "title": "研究报告写作案例202",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000802",
+      "in-q-001918",
+      "in-q-000479"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-203",
+    "title": "引用规范案例203",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001953",
+      "in-q-003485",
+      "in-q-000306"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-204",
+    "title": "版权风险识别案例204",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000959",
+      "in-q-001227",
+      "in-q-000009"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-205",
+    "title": "搜索课程资料案例205",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002909",
+      "in-q-000841",
+      "in-q-000016"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-206",
+    "title": "查找官方文档案例206",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002269",
+      "in-q-001280",
+      "in-q-002138"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-207",
+    "title": "检索论文案例207",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001602",
+      "in-q-001498",
+      "in-q-000068"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-208",
+    "title": "比较技术方案案例208",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000356",
+      "in-q-002938",
+      "in-q-003021"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-209",
+    "title": "调研数据库选型案例209",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003244",
+      "in-q-001258",
+      "in-q-001701"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-210",
+    "title": "调研前端框架案例210",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001705",
+      "in-q-002698",
+      "in-q-001310"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-211",
+    "title": "调研云服务案例211",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003277",
+      "in-q-002763",
+      "in-q-001524"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-212",
+    "title": "核查新闻案例212",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001841",
+      "in-q-002004",
+      "in-q-003228"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-213",
+    "title": "判断可信度案例213",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000888",
+      "in-q-002974",
+      "in-q-001156"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-214",
+    "title": "论文摘要笔记案例214",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002636",
+      "in-q-001143",
+      "in-q-003353"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-215",
+    "title": "技术报告整理案例215",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002497",
+      "in-q-002766",
+      "in-q-002499"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-216",
+    "title": "行业报告分析案例216",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001426",
+      "in-q-003021",
+      "in-q-000890"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-217",
+    "title": "资料卡片整理案例217",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001906",
+      "in-q-001534",
+      "in-q-002070"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-218",
+    "title": "Zotero文献库案例218",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002739",
+      "in-q-000088",
+      "in-q-002703"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-219",
+    "title": "研究报告写作案例219",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001675",
+      "in-q-001906",
+      "in-q-002143"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-220",
+    "title": "引用规范案例220",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003247",
+      "in-q-000307",
+      "in-q-001371"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-221",
+    "title": "版权风险识别案例221",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002733",
+      "in-q-000219",
+      "in-q-003397"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-222",
+    "title": "搜索课程资料案例222",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000476",
+      "in-q-001236",
+      "in-q-001642"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-223",
+    "title": "查找官方文档案例223",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000225",
+      "in-q-000909",
+      "in-q-002414"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-224",
+    "title": "检索论文案例224",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003064",
+      "in-q-000140",
+      "in-q-000234"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-225",
+    "title": "比较技术方案案例225",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003025",
+      "in-q-003237",
+      "in-q-000398"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-226",
+    "title": "调研数据库选型案例226",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001422",
+      "in-q-003427",
+      "in-q-003258"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-227",
+    "title": "调研前端框架案例227",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000890",
+      "in-q-001192",
+      "in-q-001408"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-228",
+    "title": "调研云服务案例228",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002103",
+      "in-q-002378",
+      "in-q-002918"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-229",
+    "title": "核查新闻案例229",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000510",
+      "in-q-002803",
+      "in-q-003222"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-230",
+    "title": "判断可信度案例230",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001384",
+      "in-q-000279",
+      "in-q-003356"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-231",
+    "title": "论文摘要笔记案例231",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003423",
+      "in-q-001471",
+      "in-q-002757"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-232",
+    "title": "技术报告整理案例232",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002795",
+      "in-q-001324",
+      "in-q-000071"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-233",
+    "title": "行业报告分析案例233",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002586",
+      "in-q-001029",
+      "in-q-002261"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-234",
+    "title": "资料卡片整理案例234",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002119",
+      "in-q-001294",
+      "in-q-001453"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-235",
+    "title": "Zotero文献库案例235",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000289",
+      "in-q-001291",
+      "in-q-001156"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-236",
+    "title": "研究报告写作案例236",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003213",
+      "in-q-001831",
+      "in-q-002004"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-237",
+    "title": "引用规范案例237",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001463",
+      "in-q-000209",
+      "in-q-001780"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-238",
+    "title": "版权风险识别案例238",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002361",
+      "in-q-002794",
+      "in-q-001859"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-239",
+    "title": "搜索课程资料案例239",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000849",
+      "in-q-002011",
+      "in-q-003143"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-240",
+    "title": "查找官方文档案例240",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003281",
+      "in-q-002521",
+      "in-q-001849"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-241",
+    "title": "检索论文案例241",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001118",
+      "in-q-000964",
+      "in-q-001979"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-242",
+    "title": "比较技术方案案例242",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000726",
+      "in-q-002105",
+      "in-q-001908"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-243",
+    "title": "调研数据库选型案例243",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000008",
+      "in-q-001533",
+      "in-q-001444"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-244",
+    "title": "调研前端框架案例244",
+    "description": "通过调研前端框架掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002810",
+      "in-q-001733",
+      "in-q-002763"
+    ],
+    "tags": [
+      "调研前端框架"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-245",
+    "title": "调研云服务案例245",
+    "description": "通过调研云服务掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001902",
+      "in-q-003216",
+      "in-q-001282"
+    ],
+    "tags": [
+      "调研云服务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-246",
+    "title": "核查新闻案例246",
+    "description": "通过核查新闻掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000121",
+      "in-q-002376",
+      "in-q-003477"
+    ],
+    "tags": [
+      "核查新闻"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-247",
+    "title": "判断可信度案例247",
+    "description": "通过判断可信度掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001456",
+      "in-q-000264",
+      "in-q-001008"
+    ],
+    "tags": [
+      "判断可信度"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-248",
+    "title": "论文摘要笔记案例248",
+    "description": "通过论文摘要笔记掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001523",
+      "in-q-000123",
+      "in-q-001931"
+    ],
+    "tags": [
+      "论文摘要笔记"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-249",
+    "title": "技术报告整理案例249",
+    "description": "通过技术报告整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002904",
+      "in-q-000278",
+      "in-q-000193"
+    ],
+    "tags": [
+      "技术报告整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-250",
+    "title": "行业报告分析案例250",
+    "description": "通过行业报告分析掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003385",
+      "in-q-001447",
+      "in-q-000246"
+    ],
+    "tags": [
+      "行业报告分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-251",
+    "title": "资料卡片整理案例251",
+    "description": "通过资料卡片整理掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002908",
+      "in-q-002086",
+      "in-q-002700"
+    ],
+    "tags": [
+      "资料卡片整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-252",
+    "title": "Zotero文献库案例252",
+    "description": "通过Zotero文献库掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001470",
+      "in-q-001020",
+      "in-q-000313"
+    ],
+    "tags": [
+      "Zotero文献库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-253",
+    "title": "研究报告写作案例253",
+    "description": "通过研究报告写作掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000256",
+      "in-q-003136",
+      "in-q-000976"
+    ],
+    "tags": [
+      "研究报告写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-254",
+    "title": "引用规范案例254",
+    "description": "通过引用规范掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000206",
+      "in-q-000612",
+      "in-q-000315"
+    ],
+    "tags": [
+      "引用规范"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-255",
+    "title": "版权风险识别案例255",
+    "description": "通过版权风险识别掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-003174",
+      "in-q-003461",
+      "in-q-002621"
+    ],
+    "tags": [
+      "版权风险识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-256",
+    "title": "搜索课程资料案例256",
+    "description": "通过搜索课程资料掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001318",
+      "in-q-002041",
+      "in-q-002384"
+    ],
+    "tags": [
+      "搜索课程资料"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-257",
+    "title": "查找官方文档案例257",
+    "description": "通过查找官方文档掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000657",
+      "in-q-002214",
+      "in-q-003223"
+    ],
+    "tags": [
+      "查找官方文档"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-258",
+    "title": "检索论文案例258",
+    "description": "通过检索论文掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-001011",
+      "in-q-002591",
+      "in-q-001295"
+    ],
+    "tags": [
+      "检索论文"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-259",
+    "title": "比较技术方案案例259",
+    "description": "通过比较技术方案掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-000523",
+      "in-q-002594",
+      "in-q-003219"
+    ],
+    "tags": [
+      "比较技术方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "in-case-260",
+    "title": "调研数据库选型案例260",
+    "description": "通过调研数据库选型掌握信息素养",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "in-q-002325",
+      "in-q-001597",
+      "in-q-003037"
+    ],
+    "tags": [
+      "调研数据库选型"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

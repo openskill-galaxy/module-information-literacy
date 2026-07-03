@@ -1,0 +1,41 @@
+{
+  "id": "mod-information-literacy",
+  "slug": "module-information-literacy",
+  "title": "信息检索资料整理与研究能力",
+  "subtitle": "面向大学生和研究型学习者",
+  "description": "面向大学生技术学习者和研究型学习者的搜索技巧关键词设计资料筛选事实核查论文阅读信息源评价引用规范资料整理研究问题拆解与调研报告训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "信息检索",
+    "信息素养",
+    "资料整理",
+    "事实核查",
+    "论文阅读",
+    "研究能力",
+    "引用规范",
+    "调研报告"
+  ],
+  "estimatedHours": 130,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🔍",
+  "repoUrl": "https://github.com/openskill-galaxy/module-information-literacy",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 158
+  }
+}
