@@ -36,7 +36,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门基础",
+    "description": "IL入门基础",
+    "slug": "il入门基础"
   },
   {
     "id": "in-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine基础",
+    "description": "SearchEngine基础",
+    "slug": "searchengine基础"
   },
   {
     "id": "in-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch基础",
+    "description": "AdvancedSearch基础",
+    "slug": "advancedsearch基础"
   },
   {
     "id": "in-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval基础",
+    "description": "SourceEval基础",
+    "slug": "sourceeval基础"
   },
   {
     "id": "in-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck基础",
+    "description": "FactCheck基础",
+    "slug": "factcheck基础"
   },
   {
     "id": "in-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch基础",
+    "description": "AcademicSearch基础",
+    "slug": "academicsearch基础"
   },
   {
     "id": "in-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading基础",
+    "description": "PaperReading基础",
+    "slug": "paperreading基础"
   },
   {
     "id": "in-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs基础",
+    "description": "TechDocs基础",
+    "slug": "techdocs基础"
   },
   {
     "id": "in-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports基础",
+    "description": "DataReports基础",
+    "slug": "datareports基础"
   },
   {
     "id": "in-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase基础",
+    "description": "KnowledgeBase基础",
+    "slug": "knowledgebase基础"
   },
   {
     "id": "in-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion基础",
+    "description": "ResearchQuestion基础",
+    "slug": "researchquestion基础"
   },
   {
     "id": "in-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation基础",
+    "description": "Citation基础",
+    "slug": "citation基础"
   },
   {
     "id": "in-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport基础",
+    "description": "ResearchReport基础",
+    "slug": "researchreport基础"
   },
   {
     "id": "in-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject基础",
+    "description": "ILProject基础",
+    "slug": "ilproject基础"
   },
   {
     "id": "in-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门基础",
+    "description": "IL入门基础",
+    "slug": "il入门基础"
   },
   {
     "id": "in-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine基础",
+    "description": "SearchEngine基础",
+    "slug": "searchengine基础"
   },
   {
     "id": "in-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch基础",
+    "description": "AdvancedSearch基础",
+    "slug": "advancedsearch基础"
   },
   {
     "id": "in-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval基础",
+    "description": "SourceEval基础",
+    "slug": "sourceeval基础"
   },
   {
     "id": "in-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck基础",
+    "description": "FactCheck基础",
+    "slug": "factcheck基础"
   },
   {
     "id": "in-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch基础",
+    "description": "AcademicSearch基础",
+    "slug": "academicsearch基础"
   },
   {
     "id": "in-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading基础",
+    "description": "PaperReading基础",
+    "slug": "paperreading基础"
   },
   {
     "id": "in-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs基础",
+    "description": "TechDocs基础",
+    "slug": "techdocs基础"
   },
   {
     "id": "in-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports基础",
+    "description": "DataReports基础",
+    "slug": "datareports基础"
   },
   {
     "id": "in-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase基础",
+    "description": "KnowledgeBase基础",
+    "slug": "knowledgebase基础"
   },
   {
     "id": "in-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion基础",
+    "description": "ResearchQuestion基础",
+    "slug": "researchquestion基础"
   },
   {
     "id": "in-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation基础",
+    "description": "Citation基础",
+    "slug": "citation基础"
   },
   {
     "id": "in-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport基础",
+    "description": "ResearchReport基础",
+    "slug": "researchreport基础"
   },
   {
     "id": "in-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject基础",
+    "description": "ILProject基础",
+    "slug": "ilproject基础"
   },
   {
     "id": "in-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门基础",
+    "description": "IL入门基础",
+    "slug": "il入门基础"
   },
   {
     "id": "in-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine基础",
+    "description": "SearchEngine基础",
+    "slug": "searchengine基础"
   },
   {
     "id": "in-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch基础",
+    "description": "AdvancedSearch基础",
+    "slug": "advancedsearch基础"
   },
   {
     "id": "in-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval基础",
+    "description": "SourceEval基础",
+    "slug": "sourceeval基础"
   },
   {
     "id": "in-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck基础",
+    "description": "FactCheck基础",
+    "slug": "factcheck基础"
   },
   {
     "id": "in-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch基础",
+    "description": "AcademicSearch基础",
+    "slug": "academicsearch基础"
   },
   {
     "id": "in-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading基础",
+    "description": "PaperReading基础",
+    "slug": "paperreading基础"
   },
   {
     "id": "in-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs进阶",
+    "description": "TechDocs进阶",
+    "slug": "techdocs进阶"
   },
   {
     "id": "in-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports进阶",
+    "description": "DataReports进阶",
+    "slug": "datareports进阶"
   },
   {
     "id": "in-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase进阶",
+    "description": "KnowledgeBase进阶",
+    "slug": "knowledgebase进阶"
   },
   {
     "id": "in-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion进阶",
+    "description": "ResearchQuestion进阶",
+    "slug": "researchquestion进阶"
   },
   {
     "id": "in-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation进阶",
+    "description": "Citation进阶",
+    "slug": "citation进阶"
   },
   {
     "id": "in-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport进阶",
+    "description": "ResearchReport进阶",
+    "slug": "researchreport进阶"
   },
   {
     "id": "in-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject进阶",
+    "description": "ILProject进阶",
+    "slug": "ilproject进阶"
   },
   {
     "id": "in-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门进阶",
+    "description": "IL入门进阶",
+    "slug": "il入门进阶"
   },
   {
     "id": "in-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine进阶",
+    "description": "SearchEngine进阶",
+    "slug": "searchengine进阶"
   },
   {
     "id": "in-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch进阶",
+    "description": "AdvancedSearch进阶",
+    "slug": "advancedsearch进阶"
   },
   {
     "id": "in-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval进阶",
+    "description": "SourceEval进阶",
+    "slug": "sourceeval进阶"
   },
   {
     "id": "in-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck进阶",
+    "description": "FactCheck进阶",
+    "slug": "factcheck进阶"
   },
   {
     "id": "in-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch进阶",
+    "description": "AcademicSearch进阶",
+    "slug": "academicsearch进阶"
   },
   {
     "id": "in-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading进阶",
+    "description": "PaperReading进阶",
+    "slug": "paperreading进阶"
   },
   {
     "id": "in-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs进阶",
+    "description": "TechDocs进阶",
+    "slug": "techdocs进阶"
   },
   {
     "id": "in-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports进阶",
+    "description": "DataReports进阶",
+    "slug": "datareports进阶"
   },
   {
     "id": "in-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase进阶",
+    "description": "KnowledgeBase进阶",
+    "slug": "knowledgebase进阶"
   },
   {
     "id": "in-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion进阶",
+    "description": "ResearchQuestion进阶",
+    "slug": "researchquestion进阶"
   },
   {
     "id": "in-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation进阶",
+    "description": "Citation进阶",
+    "slug": "citation进阶"
   },
   {
     "id": "in-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport进阶",
+    "description": "ResearchReport进阶",
+    "slug": "researchreport进阶"
   },
   {
     "id": "in-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject进阶",
+    "description": "ILProject进阶",
+    "slug": "ilproject进阶"
   },
   {
     "id": "in-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门进阶",
+    "description": "IL入门进阶",
+    "slug": "il入门进阶"
   },
   {
     "id": "in-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine进阶",
+    "description": "SearchEngine进阶",
+    "slug": "searchengine进阶"
   },
   {
     "id": "in-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch进阶",
+    "description": "AdvancedSearch进阶",
+    "slug": "advancedsearch进阶"
   },
   {
     "id": "in-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval进阶",
+    "description": "SourceEval进阶",
+    "slug": "sourceeval进阶"
   },
   {
     "id": "in-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck进阶",
+    "description": "FactCheck进阶",
+    "slug": "factcheck进阶"
   },
   {
     "id": "in-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch进阶",
+    "description": "AcademicSearch进阶",
+    "slug": "academicsearch进阶"
   },
   {
     "id": "in-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading进阶",
+    "description": "PaperReading进阶",
+    "slug": "paperreading进阶"
   },
   {
     "id": "in-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs进阶",
+    "description": "TechDocs进阶",
+    "slug": "techdocs进阶"
   },
   {
     "id": "in-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports进阶",
+    "description": "DataReports进阶",
+    "slug": "datareports进阶"
   },
   {
     "id": "in-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase进阶",
+    "description": "KnowledgeBase进阶",
+    "slug": "knowledgebase进阶"
   },
   {
     "id": "in-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion进阶",
+    "description": "ResearchQuestion进阶",
+    "slug": "researchquestion进阶"
   },
   {
     "id": "in-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation进阶",
+    "description": "Citation进阶",
+    "slug": "citation进阶"
   },
   {
     "id": "in-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport进阶",
+    "description": "ResearchReport进阶",
+    "slug": "researchreport进阶"
   },
   {
     "id": "in-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject进阶",
+    "description": "ILProject进阶",
+    "slug": "ilproject进阶"
   },
   {
     "id": "in-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门进阶",
+    "description": "IL入门进阶",
+    "slug": "il入门进阶"
   },
   {
     "id": "in-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine进阶",
+    "description": "SearchEngine进阶",
+    "slug": "searchengine进阶"
   },
   {
     "id": "in-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch进阶",
+    "description": "AdvancedSearch进阶",
+    "slug": "advancedsearch进阶"
   },
   {
     "id": "in-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval进阶",
+    "description": "SourceEval进阶",
+    "slug": "sourceeval进阶"
   },
   {
     "id": "in-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck进阶",
+    "description": "FactCheck进阶",
+    "slug": "factcheck进阶"
   },
   {
     "id": "in-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch进阶",
+    "description": "AcademicSearch进阶",
+    "slug": "academicsearch进阶"
   },
   {
     "id": "in-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading进阶",
+    "description": "PaperReading进阶",
+    "slug": "paperreading进阶"
   },
   {
     "id": "in-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs进阶",
+    "description": "TechDocs进阶",
+    "slug": "techdocs进阶"
   },
   {
     "id": "in-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports进阶",
+    "description": "DataReports进阶",
+    "slug": "datareports进阶"
   },
   {
     "id": "in-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase进阶",
+    "description": "KnowledgeBase进阶",
+    "slug": "knowledgebase进阶"
   },
   {
     "id": "in-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion进阶",
+    "description": "ResearchQuestion进阶",
+    "slug": "researchquestion进阶"
   },
   {
     "id": "in-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation进阶",
+    "description": "Citation进阶",
+    "slug": "citation进阶"
   },
   {
     "id": "in-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport进阶",
+    "description": "ResearchReport进阶",
+    "slug": "researchreport进阶"
   },
   {
     "id": "in-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject进阶",
+    "description": "ILProject进阶",
+    "slug": "ilproject进阶"
   },
   {
     "id": "in-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门进阶",
+    "description": "IL入门进阶",
+    "slug": "il入门进阶"
   },
   {
     "id": "in-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine进阶",
+    "description": "SearchEngine进阶",
+    "slug": "searchengine进阶"
   },
   {
     "id": "in-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "AdvancedSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AdvancedSearch进阶",
+    "description": "AdvancedSearch进阶",
+    "slug": "advancedsearch进阶"
   },
   {
     "id": "in-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "SourceEval"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SourceEval进阶",
+    "description": "SourceEval进阶",
+    "slug": "sourceeval进阶"
   },
   {
     "id": "in-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "FactCheck"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "FactCheck进阶",
+    "description": "FactCheck进阶",
+    "slug": "factcheck进阶"
   },
   {
     "id": "in-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "AcademicSearch"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AcademicSearch进阶",
+    "description": "AcademicSearch进阶",
+    "slug": "academicsearch进阶"
   },
   {
     "id": "in-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "PaperReading"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PaperReading进阶",
+    "description": "PaperReading进阶",
+    "slug": "paperreading进阶"
   },
   {
     "id": "in-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "TechDocs"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TechDocs进阶",
+    "description": "TechDocs进阶",
+    "slug": "techdocs进阶"
   },
   {
     "id": "in-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "DataReports"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataReports进阶",
+    "description": "DataReports进阶",
+    "slug": "datareports进阶"
   },
   {
     "id": "in-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "KnowledgeBase"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KnowledgeBase进阶",
+    "description": "KnowledgeBase进阶",
+    "slug": "knowledgebase进阶"
   },
   {
     "id": "in-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "ResearchQuestion"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchQuestion进阶",
+    "description": "ResearchQuestion进阶",
+    "slug": "researchquestion进阶"
   },
   {
     "id": "in-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "Citation"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Citation进阶",
+    "description": "Citation进阶",
+    "slug": "citation进阶"
   },
   {
     "id": "in-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "ResearchReport"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ResearchReport进阶",
+    "description": "ResearchReport进阶",
+    "slug": "researchreport进阶"
   },
   {
     "id": "in-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "ILProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ILProject进阶",
+    "description": "ILProject进阶",
+    "slug": "ilproject进阶"
   },
   {
     "id": "in-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "IL入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IL入门进阶",
+    "description": "IL入门进阶",
+    "slug": "il入门进阶"
   },
   {
     "id": "in-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "SearchEngine"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SearchEngine进阶",
+    "description": "SearchEngine进阶",
+    "slug": "searchengine进阶"
   }
 ]
