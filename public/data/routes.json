@@ -1,562 +1,81 @@
 [
   {
-    "id": "in-route-01",
-    "slug": "IL路线1",
-    "title": "IL路线1",
-    "description": "IL路线1",
-    "targetUser": "目标1",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线1"
+    "id": "mod-information-literacy-route-1",
+    "slug": "professional-path",
+    "title": "信息检索资料整理与研究能力 专业级成长路线",
+    "summary": "带您由浅入深、由原理到实战系统通关 信息检索资料整理与研究能力 核心要点。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "信息检索资料整理与研究能力 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-information-literacy-c-1",
+        "lessonId": "mod-information-literacy-l-1"
+      },
+      {
+        "order": 2,
+        "title": "信息检索资料整理与研究能力 配置文件覆盖与属性解析",
+        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "courseId": "mod-information-literacy-c-1",
+        "lessonId": "mod-information-literacy-l-2"
+      },
+      {
+        "order": 3,
+        "title": "信息检索资料整理与研究能力 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-information-literacy-c-2",
+        "lessonId": "mod-information-literacy-l-3"
+      },
+      {
+        "order": 4,
+        "title": "信息检索资料整理与研究能力 核心控制器与数据校验机制",
+        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "courseId": "mod-information-literacy-c-2",
+        "lessonId": "mod-information-literacy-l-4"
+      },
+      {
+        "order": 5,
+        "title": "信息检索资料整理与研究能力 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-information-literacy-c-3",
+        "lessonId": "mod-information-literacy-l-5"
+      },
+      {
+        "order": 6,
+        "title": "信息检索资料整理与研究能力 可观测性日志与分布式链路监控",
+        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "courseId": "mod-information-literacy-c-3",
+        "lessonId": "mod-information-literacy-l-6"
+      }
+    ]
   },
   {
-    "id": "in-route-02",
-    "slug": "IL路线2",
-    "title": "IL路线2",
-    "description": "IL路线2",
-    "targetUser": "目标2",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线2"
-  },
-  {
-    "id": "in-route-03",
-    "slug": "IL路线3",
-    "title": "IL路线3",
-    "description": "IL路线3",
-    "targetUser": "目标3",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线3"
-  },
-  {
-    "id": "in-route-04",
-    "slug": "IL路线4",
-    "title": "IL路线4",
-    "description": "IL路线4",
-    "targetUser": "目标4",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线4"
-  },
-  {
-    "id": "in-route-05",
-    "slug": "IL路线5",
-    "title": "IL路线5",
-    "description": "IL路线5",
-    "targetUser": "目标5",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线5"
-  },
-  {
-    "id": "in-route-06",
-    "slug": "IL路线6",
-    "title": "IL路线6",
-    "description": "IL路线6",
-    "targetUser": "目标6",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线6"
-  },
-  {
-    "id": "in-route-07",
-    "slug": "IL路线7",
-    "title": "IL路线7",
-    "description": "IL路线7",
-    "targetUser": "目标7",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线7"
-  },
-  {
-    "id": "in-route-08",
-    "slug": "IL路线8",
-    "title": "IL路线8",
-    "description": "IL路线8",
-    "targetUser": "目标8",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线8"
-  },
-  {
-    "id": "in-route-09",
-    "slug": "IL路线9",
-    "title": "IL路线9",
-    "description": "IL路线9",
-    "targetUser": "目标9",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线9"
-  },
-  {
-    "id": "in-route-10",
-    "slug": "IL路线10",
-    "title": "IL路线10",
-    "description": "IL路线10",
-    "targetUser": "目标10",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线10"
-  },
-  {
-    "id": "in-route-11",
-    "slug": "IL路线11",
-    "title": "IL路线11",
-    "description": "IL路线11",
-    "targetUser": "目标11",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线11"
-  },
-  {
-    "id": "in-route-12",
-    "slug": "IL路线12",
-    "title": "IL路线12",
-    "description": "IL路线12",
-    "targetUser": "目标12",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线12"
-  },
-  {
-    "id": "in-route-13",
-    "slug": "IL路线13",
-    "title": "IL路线13",
-    "description": "IL路线13",
-    "targetUser": "目标13",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线13"
-  },
-  {
-    "id": "in-route-14",
-    "slug": "IL路线14",
-    "title": "IL路线14",
-    "description": "IL路线14",
-    "targetUser": "目标14",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线14"
-  },
-  {
-    "id": "in-route-15",
-    "slug": "IL路线15",
-    "title": "IL路线15",
-    "description": "IL路线15",
-    "targetUser": "目标15",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线15"
-  },
-  {
-    "id": "in-route-16",
-    "slug": "IL路线16",
-    "title": "IL路线16",
-    "description": "IL路线16",
-    "targetUser": "目标16",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线16"
-  },
-  {
-    "id": "in-route-17",
-    "slug": "IL路线17",
-    "title": "IL路线17",
-    "description": "IL路线17",
-    "targetUser": "目标17",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线17"
-  },
-  {
-    "id": "in-route-18",
-    "slug": "IL路线18",
-    "title": "IL路线18",
-    "description": "IL路线18",
-    "targetUser": "目标18",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线18"
-  },
-  {
-    "id": "in-route-19",
-    "slug": "IL路线19",
-    "title": "IL路线19",
-    "description": "IL路线19",
-    "targetUser": "目标19",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线19"
-  },
-  {
-    "id": "in-route-20",
-    "slug": "IL路线20",
-    "title": "IL路线20",
-    "description": "IL路线20",
-    "targetUser": "目标20",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线20"
-  },
-  {
-    "id": "in-route-21",
-    "slug": "IL路线21",
-    "title": "IL路线21",
-    "description": "IL路线21",
-    "targetUser": "目标21",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线21"
-  },
-  {
-    "id": "in-route-22",
-    "slug": "IL路线22",
-    "title": "IL路线22",
-    "description": "IL路线22",
-    "targetUser": "目标22",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线22"
-  },
-  {
-    "id": "in-route-23",
-    "slug": "IL路线23",
-    "title": "IL路线23",
-    "description": "IL路线23",
-    "targetUser": "目标23",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线23"
-  },
-  {
-    "id": "in-route-24",
-    "slug": "IL路线24",
-    "title": "IL路线24",
-    "description": "IL路线24",
-    "targetUser": "目标24",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线24"
-  },
-  {
-    "id": "in-route-25",
-    "slug": "IL路线25",
-    "title": "IL路线25",
-    "description": "IL路线25",
-    "targetUser": "目标25",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线25"
-  },
-  {
-    "id": "in-route-26",
-    "slug": "IL路线26",
-    "title": "IL路线26",
-    "description": "IL路线26",
-    "targetUser": "目标26",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线26"
-  },
-  {
-    "id": "in-route-27",
-    "slug": "IL路线27",
-    "title": "IL路线27",
-    "description": "IL路线27",
-    "targetUser": "目标27",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线27"
-  },
-  {
-    "id": "in-route-28",
-    "slug": "IL路线28",
-    "title": "IL路线28",
-    "description": "IL路线28",
-    "targetUser": "目标28",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线28"
-  },
-  {
-    "id": "in-route-29",
-    "slug": "IL路线29",
-    "title": "IL路线29",
-    "description": "IL路线29",
-    "targetUser": "目标29",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线29"
-  },
-  {
-    "id": "in-route-30",
-    "slug": "IL路线30",
-    "title": "IL路线30",
-    "description": "IL路线30",
-    "targetUser": "目标30",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线30"
-  },
-  {
-    "id": "in-route-31",
-    "slug": "IL路线31",
-    "title": "IL路线31",
-    "description": "IL路线31",
-    "targetUser": "目标31",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线31"
-  },
-  {
-    "id": "in-route-32",
-    "slug": "IL路线32",
-    "title": "IL路线32",
-    "description": "IL路线32",
-    "targetUser": "目标32",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线32"
-  },
-  {
-    "id": "in-route-33",
-    "slug": "IL路线33",
-    "title": "IL路线33",
-    "description": "IL路线33",
-    "targetUser": "目标33",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线33"
-  },
-  {
-    "id": "in-route-34",
-    "slug": "IL路线34",
-    "title": "IL路线34",
-    "description": "IL路线34",
-    "targetUser": "目标34",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线34"
-  },
-  {
-    "id": "in-route-35",
-    "slug": "IL路线35",
-    "title": "IL路线35",
-    "description": "IL路线35",
-    "targetUser": "目标35",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IL路线35"
+    "id": "mod-information-literacy-route-2",
+    "slug": "quick-start-path",
+    "title": "信息检索资料整理与研究能力 快速通关极速路线",
+    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "信息检索资料整理与研究能力 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-information-literacy-c-1",
+        "lessonId": "mod-information-literacy-l-1"
+      },
+      {
+        "order": 3,
+        "title": "信息检索资料整理与研究能力 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-information-literacy-c-2",
+        "lessonId": "mod-information-literacy-l-3"
+      },
+      {
+        "order": 5,
+        "title": "信息检索资料整理与研究能力 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-information-literacy-c-3",
+        "lessonId": "mod-information-literacy-l-5"
+      }
+    ]
   }
 ]
